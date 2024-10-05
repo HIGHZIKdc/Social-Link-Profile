@@ -37,9 +37,10 @@ img{
     padding: 5px;
     text-align: center;
 }
-h5{
+h2{
     color: lawngreen;
     padding: 6px;
+    font-size: smaller;
 }
 p{
     color: grey;
